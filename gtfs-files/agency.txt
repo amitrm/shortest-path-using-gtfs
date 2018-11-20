@@ -1,0 +1,6 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+google_wa-me_transit,CTTransit - Waterbury-Meriden,http://www.cttransit.com,America/New_York,en,203-753-2538
+googleha_transit,CTTransit- Hartford,http://www.cttransit.com,America/New_York,en,860-525-9181
+googlenb_transit,CTTransit - New Britain,http://www.cttransit.com,America/New_York,en,860-828-0512
+googlenh_transit,CTTransit- New Haven,http://www.cttransit.com,America/New_York,en,203-624-0151
+googlestam_transit,CTTransit- Stamford,http://www.cttransit.com,America/New_York,en,203-327-7433
